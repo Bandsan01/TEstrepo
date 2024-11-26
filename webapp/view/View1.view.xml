@@ -5,6 +5,8 @@
         <content>
         <Label text="Git"></Label>
         <Input ></Input>
+        <Label text="Git1"></Label>
+        <Input ></Input>
         </content>
     </Page>
 </mvc:View>
